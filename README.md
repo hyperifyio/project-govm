@@ -10,6 +10,15 @@ GoVM aims to provide an easy and straightforward interface for managing servers,
 * Backend Server: Developed in *Go*, providing robust and scalable server management capabilities.
 * Web Frontend: Built with *ReactJS*, offering an intuitive and responsive user interface that aligns with our "keep it simple" philosophy.
 
+## System Requirements
+
+GoVM is designed to run on the following operating systems:
+
+* Linux (our main focus)
+* macOS
+* Windows
+* FreeBSD
+
 ## Availability
 
 The full source code for GoVM, encompassing both the backend and frontend components, is available exclusively to commercial customers in both binary and source code formats. Our preferred licensing model is the FSL-1.1-MIT license, detailed in [the LICENSE.md file](./LICENSE.md), but we are open to discussing other dual licensing options as well.
