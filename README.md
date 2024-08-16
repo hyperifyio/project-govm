@@ -4,6 +4,10 @@ Welcome to the public repository for GoVM, a user-friendly Virtualization Manage
 
 GoVM aims to provide an easy and straightforward interface for managing servers, making it accessible even to those without advanced technical skills. We believe in the power of simplicity, which is why our interface follows a "keep it simple" approach, allowing users to manage their environments with ease and confidence.
 
+## Screenshot
+
+![Screenshot 2024-08-16 at 11 20 01](https://github.com/user-attachments/assets/f794818b-5527-4ca9-87ac-799177f3bca1)
+
 ## Key Features
 
 * Ease of Use: Designed with simplicity in mind, GoVM ensures that managing servers is straightforward, requiring minimal technical experience.
