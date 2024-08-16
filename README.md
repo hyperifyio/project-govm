@@ -12,6 +12,6 @@ GoVM aims to provide an easy and straightforward interface for managing servers,
 
 ## Availability
 
-The complete source code for GoVM, including both the backend and frontend components, is exclusively accessible to commercial customers in both binary and source code formats.
+The full source code for GoVM, encompassing both the backend and frontend components, is available exclusively to commercial customers in both binary and source code formats. Our preferred licensing model is the FSL-1.1-MIT license, detailed in [the LICENSE.md file](./LICENSE.md), but we are open to discussing other dual licensing options as well.
 
 For more details and to follow the progress of this project, please visit [the GoVM Project Tracker](https://github.com/hyperifyio/project-govm/issues/1).
