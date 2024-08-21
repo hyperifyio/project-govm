@@ -15,6 +15,7 @@ GoVM aims to provide an easy and straightforward interface for managing servers,
 * Web Frontend: Built with *ReactJS*, offering an intuitive and responsive user interface that aligns with our "keep it simple" philosophy.
 * Virtual server enrollment: Cloud Init -based virtual server creation (support still experimental)
 * Virtual server management: Stop, Start, Reboot, and VNC console available
+* Translation: Finnish and English (and easy to add more!)
 
 ## System Requirements
 
