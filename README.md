@@ -31,6 +31,7 @@ Future options (not tested yet, nor officially supported yet):
 
 ## Availability
 
-The full source code for GoVM, encompassing both the backend and frontend components, is available exclusively to commercial customers in both binary and source code formats. Our preferred licensing model is the FSL-1.1-MIT license, detailed in [the LICENSE.md file](./LICENSE.md), but we are open to discussing other dual licensing options as well.
+The full source code for GoVM, encompassing both the backend and frontend components, is available [exclusively to commercial customers in both binary and source code formats](https://www.sendanor.fi/software). Our preferred licensing model is the FSL-1.1-MIT license, detailed in [the LICENSE.md file](./LICENSE.md), but we are open to discussing other dual licensing options as well.
 
 For more details and to follow the progress of this project, please visit [the GoVM Project Tracker](https://github.com/hyperifyio/project-govm/issues/1).
+
