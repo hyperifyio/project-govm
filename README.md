@@ -11,8 +11,10 @@ GoVM aims to provide an easy and straightforward interface for managing servers,
 ## Key Features
 
 * Ease of Use: Designed with simplicity in mind, GoVM ensures that managing servers is straightforward, requiring minimal technical experience.
-* Backend Server: Developed in *Go*, providing robust and scalable server management capabilities.
+* Backend Server: Developed in *Go*, providing robust and scalable REST API to manage servers.
 * Web Frontend: Built with *ReactJS*, offering an intuitive and responsive user interface that aligns with our "keep it simple" philosophy.
+* Virtual server enrollment: Cloud Init -based virtual server creation (support still experimental)
+* Virtual server management: Stop, Start, Reboot, and VNC console available
 
 ## System Requirements
 
