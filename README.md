@@ -20,6 +20,9 @@ GoVM is designed to run on the following operating systems:
 
 * Linux (our main focus)
 * macOS
+
+Future options (not tested yet, nor officially supported yet):
+
 * Windows
 * FreeBSD
 
