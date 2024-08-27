@@ -1,6 +1,6 @@
 # GoVM - Virtualization Manager in Go
 
-Welcome to the public repository for GoVM, a user-friendly Virtualization Manager built with Go.
+Welcome to the main project repository for GoVM, a user-friendly Virtualization Manager built with Go.
 
 GoVM aims to provide an easy and straightforward interface for managing servers, making it accessible even to those without advanced technical skills. We believe in the power of simplicity, which is why our interface follows a "keep it simple" approach, allowing users to manage their environments with ease and confidence.
 
