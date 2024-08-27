@@ -14,7 +14,7 @@ The complete source code for GoVM is available under [the FSL-1.1-MIT license](.
 * [govm Frontend Project](https://github.com/hyperifyio/frontend-govm)
 * [govm Frontend Source Code](https://github.com/hyperifyio/io.hyperify.govm)
 
-The FSL-1.1-MIT license is a flexible software license that combines the permissiveness of the MIT license with additional terms specified under the FSL-1.1. It allows users to freely use, modify, and distribute the software, provided they adhere to the specific conditions outlined in the license. The license is designed to encourage open source collaboration while offering clarity on commercial use and distribution. For full details, please refer to [the LICENSE.md file](./LICENSE.md)
+The FSL-1.1-MIT license is a flexible software license that combines the permissiveness of the MIT license with additional terms specified under the FSL-1.1. It allows users to freely use, modify, and distribute the software, provided they adhere to the specific conditions outlined in the license. The license is designed to encourage open source collaboration while offering clarity on commercial use and distribution. For full details, please refer to [the LICENSE.md file](./LICENSE.md).
 
 We also offer flexible dual-licensing options to accommodate different use cases and business needs. If you are interested in exploring alternative licensing arrangements, please don't hesitate to contact [our sales team sales@hg.fi](mailto:sales@hg.fi).
 
