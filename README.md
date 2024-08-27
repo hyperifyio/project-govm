@@ -16,7 +16,35 @@ The complete source code for GoVM is available under [the FSL-1.1-MIT license](.
 
 The FSL-1.1-MIT license is a flexible software license that combines the permissiveness of the MIT license with additional terms specified under the FSL-1.1. It allows users to freely use, modify, and distribute the software, provided they adhere to the specific conditions outlined in the license. The license is designed to encourage open source collaboration while offering clarity on commercial use and distribution. For full details, please refer to [the LICENSE.md file](./LICENSE.md).
 
-We also offer flexible dual-licensing options to accommodate different use cases and business needs. If you are interested in exploring alternative licensing arrangements, please don't hesitate to contact [our sales team sales@hg.fi](mailto:sales@hg.fi).
+## Summary of Commercial Uses
+
+This section provides a general overview of what types of commercial use are typically accepted or not accepted under the Functional Source License (FSL-1.1-MIT). Please refer to [the full license text](./LICENSE.md) for the legally binding terms and conditions.
+
+***Accepted Commercial Uses:***
+
+1. **Internal Business Use:** You are welcome to use the Software within your organization for internal operations, such as improving your business processes or supporting your company's 
+   internal projects.
+
+2. **Educational and Research Purposes:** Although these uses are generally non-commercial, they are permitted. Any incidental commercial benefits that arise from educational or research 
+   activities within a commercial entity are also acceptable.
+
+3. **Professional Services:** You may use the Software to provide professional services, such as consulting, training, or implementation, as long as these services are provided to a 
+   licensee using the Software in accordance with the license terms.
+
+***Not Accepted Commercial Uses (Competing Uses):***
+
+1. **Creating Substitutes:** You may not use the Software to create or distribute a product or service that directly competes with the Software. This includes reselling, rebranding, or 
+   repackaging the Software as a commercial offering.
+
+2. **Competing with Existing Products or Services:** Using the Software in a way that competes with any other product or service offered by the Licensor, particularly those existing at the 
+   time the Software is made available, is not permitted.
+
+3. **Offering Similar Functionality:** You cannot use the Software to develop or distribute a commercial product or service that replicates or closely imitates the functionality of the 
+   Software.
+
+***Flexible Licensing Options***
+
+We understand that different projects may have unique needs. If you have specific requirements or are interested in exploring alternative licensing arrangements, please reach out to our sales team at [sales@hg.fi](mailto:sales@hg.fi) to discuss flexible dual-licensing options.
 
 ## Screenshot
 
