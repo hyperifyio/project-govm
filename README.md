@@ -8,7 +8,7 @@ For more details and to follow the progress of this project, please visit [the G
 
 ## Availability
 
-The complete source code for GoVM is available under the FSL-1.1-MIT license, as outlained in [the LICENSE.md file](./LICENSE.md). You can explore the codebases here:
+The complete source code for GoVM is available under [the FSL-1.1-MIT license](./LICENSE.md). You can explore the codebases here:
 
 * [govm Server Project](https://github.com/hyperifyio/govm)
 * [govm Frontend Project](https://github.com/hyperifyio/frontend-govm)
