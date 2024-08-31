@@ -4,6 +4,8 @@ Welcome to the main project repository for GoVM, a user-friendly Virtualization 
 
 GoVM aims to provide an easy and straightforward interface for managing servers, making it accessible even to those without advanced technical skills. We believe in the power of simplicity, which is why our interface follows a "keep it simple" approach, allowing users to manage their environments with ease and confidence.
 
+Currently GoVM only supports [libvirt](https://libvirt.org/platforms.html), but other modules might be added later.
+
 For more details and to follow the progress of this project, please visit [the GoVM Project Tracker](https://github.com/hyperifyio/project-govm/issues/1).
 
 ## Availability
